@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/fernanda-mendon%C3%A7a-6012a71b2/"><i>Fernanda Mendonça</i></a> Nice to meet u</h1>
+  <h1 align="center">Fernanda Mendonça</h1>
   <p align="center">I study Web development <a href="https://www.cruzeirodosul.edu.br/"><i>Cruzeiro do sul</i></a>
  
 
